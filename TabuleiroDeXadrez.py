@@ -1,7 +1,5 @@
 # Função que cria um tabuleiro de xadrez com dois numeros dados
 
-
-
 def tabuleiro():
 
     n = int(input("Digite o tamanho do tabuleiro desejado:"))

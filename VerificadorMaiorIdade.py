@@ -1,6 +1,5 @@
 # Função verificadora de idade
 
-
 def maioridade():
     
     idade = int(input("Insira a sua idade:"))

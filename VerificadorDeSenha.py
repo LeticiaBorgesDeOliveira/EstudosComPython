@@ -1,6 +1,5 @@
 # Função Verificadora de senha
 
-
 def VerificadorSenha():
 
     senha = str(input("Digite a sua senha:"))

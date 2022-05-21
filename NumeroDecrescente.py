@@ -6,7 +6,7 @@ def Crescente():
     num2 = float(input("Digite o segundo numero:"))
 
     if num1>num2:
-        print(num1, num2, sep=(","))
+        print(num1,num2, sep=(","))
     else:
         print(num2,num1, sep=(","))
 

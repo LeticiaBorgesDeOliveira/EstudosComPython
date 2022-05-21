@@ -20,5 +20,4 @@ def primos():
         inicio = inicio+1
     print(f'primos: {contapr}')
 
-
 primos()

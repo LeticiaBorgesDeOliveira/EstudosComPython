@@ -13,5 +13,4 @@ def anobissexto():
             contagem += 1
       
     print(f"Bissextos: {contagem}")
-
 anobissexto()

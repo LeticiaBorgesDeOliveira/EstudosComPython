@@ -1,6 +1,5 @@
 # Função que verifica se o numero digitado está dentro do intervalo entre 50 e 100
 
-
 def verificador():
     
     num = int(input("Digite um numero Inteiro:"))

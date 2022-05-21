@@ -1,7 +1,5 @@
 #Função que verifica se os numeros são iguais, e caso nao sejam, ele subtrai um pelo outro mostrando a diferença
 
-
-
 def igualdade():
     num1 =int(input("Digite o primeiro numero inteiro:"))
     num2 =int(input("Digite o segundo numero Inteiro:"))

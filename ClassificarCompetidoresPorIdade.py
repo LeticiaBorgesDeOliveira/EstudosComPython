@@ -1,6 +1,5 @@
 # Função para classificar os competidores por categorias de acordo com a sua idade
 
-
 def competidor():
 
     idade = int(input("Digite a sua idade:"))
