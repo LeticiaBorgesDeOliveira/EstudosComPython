@@ -1,4 +1,4 @@
-# diz entre 3 variaveis qual é a maior e se todas as tres sao iguais.
+# diz entre 3 variaveis se todas as tres sao iguais ou qual delas é a maior.
 def decrescente():
 
     num1 = int(input("Digite o primeiro numero:"))

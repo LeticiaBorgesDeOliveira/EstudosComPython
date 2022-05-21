@@ -1,5 +1,8 @@
-.<h1 align="center"> EstudosComPython </h1>
-Exercicios em python para praticar de nivel iniciante! 💻
+<h1 align="center"> EstudosComPython </h1>
+
+<h1>
+    <img src="python-logo.svg">
+    <p>Exercicios em python para praticar de nivel iniciante! 💻</p>
 </h1>
 
 ## 👩🏽‍💻 Sobre o projeto
@@ -15,34 +18,34 @@ Exercicios em python para praticar de nivel iniciante! 💻
 
 <h1>Códigos Dentro Do Projeto</h1>
 
-### Codigo de uma calculadora em python :
+### Código de uma calculadora em python que faz soma, subtração, multiplicação e divisão :
 - [Calculadora](Calculadora.py)
 
-### Codigo que mostra quais são e quantos são anos bissextos em um periodo selecionado pelo usuário:
+### Código que mostra quais são e quantos são anos bissextos em um periodo selecionado pelo usuário:
 - [Anos Bissextos](AnosBissextos.py)
 
-### Codigo que faz um tabuleiro de xadrez de acordo com o tamanho dado pelo usuário:
+### Código que faz um tabuleiro de xadrez de acordo com o tamanho dado pelo usuário:
 - [Tabuleiro de Xadrez](TabuleiroDeXadrez.py)
 
-### Codigo que faz o formato de um triangulo retangulo com uma letra do alfabeto repetida em cada linha:
+### Código que faz o formato de um triangulo retangulo com uma letra do alfabeto repetida em cada linha:
 - [Triângulo Retangulo de Letras](TrianguloRetanguloComLetras.py)
 
-### Codigo que verifica a igualdade entre dois numeros dados pelo usuario, e caso não sejam iguais ele subtrai um pelo outro e mostra o resultado:
+### Código que verifica a igualdade entre dois numeros dados pelo usuario, e caso não sejam iguais ele subtrai um pelo outro e mostra o resultado:
 - [Igualdade](VerificaIgualdade.py)
 
-### Codigo que faz a verificação e mostra se o usuário é maior de idade ou não:
+### Código que faz a verificação e mostra se o usuário é maior de idade ou não:
 - [Maior Idade](VerificadorMaiorIdade.py)
 
-### Codigo que verifica se o usuário digitou a senha correta ou não, e com isso dá permissão de acesso:
+### Código que verifica se o usuário digitou a senha correta ou não, e com isso dá permissão de acesso:
 - [Verificador de Senha](VerificadorDeSenha.py)
 
-### Codigo que verifica se um número inteiro digitado pelo usuário está dentro do intervalo de 50 a 100:
+### Código que verifica se um número inteiro digitado pelo usuário está dentro do intervalo de 50 a 100:
 - [Número Entre 50 a 100](Verifica50a100.py)
 
-### Codigo que mostra todos os números primos dentro de um intervalo dado pelo usuário:
+### Código que mostra todos os números primos dentro de um intervalo dado pelo usuário:
 - [Números Primos](NumerosPrimos.py)
 
-### Codigo que organiza dois numeros digitados pelo usuario de forma decrescente, sendo do maior para o menor:
+### Código que organiza dois numeros digitados pelo usuario de forma decrescente, sendo do maior para o menor:
 - [Número Decrescente](NumeroDecrescente.py)
 
 ### Código com função divisora que aceita apenas numeros maiores ou iguais a 20:
@@ -59,11 +62,27 @@ Exercicios em python para praticar de nivel iniciante! 💻
 
 - [Classificação dos Competidores](ClassificarCompetidoresPorIdade.py)
 
+### Código de uma empresa fictícia que diz o quanto de bônus cada funcionário vai ganhar de acordo com o valor do salario e o tempo que a pessoa está empregada na empresa.
+### -  se você tem mais de 5 anos de empresa o bônus é de 20%.
+### -  se você tem menos de 5 anos de empresa seu bônus é de 10%.
+- [Bonus](BonusSalario.py)
 
 
+### Calculadora de média de entre 4 números:
+- [Média](CalculadoraMediaFaculdade.py)
 
+### Código de uma calculadora de parcelamento fictício de acordo com o salario.
+### - caso o parcelamento seja maior ou igual a 0,3% do salario, não é aceito o parcelamento.
+### - caso o parcelamento seja menor que 0,3% do salario, é aceito o parcelamento. 
+-[Parcelamento](CalculadoraParcelamento.py)
 
+### Código que recebe 3 numeros do usuario e os classifica, dizendo se todos os tres sao iguais, caso não sejam ele diz qual dos numeros digitados é o maior.
+-[Calculadora Decrescente](CalculoDecrescente.py)
 
+### Código que faz o calculo fictício do desconto do INSS do salario do colaborador de acordo com o valor do salário:
+-[Calculadora INSS](CalculoDescontoINSS.py)
+### Código que mostra uma sequencia númerica do 50 ao 100:
+-[Sequencia Numérica](FuncaoExibidorDeSequenciaNumerica.py)
 
 
 

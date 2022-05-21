@@ -7,7 +7,7 @@ def parcelamento():
 
     if valor>=(salario*0.3):
         print("Valor nao aceito")
-    elif valor<=(salario*0.3):
+    elif valor<(salario*0.3):
         print("Valor aceito")
 
 parcelamento()
