@@ -77,12 +77,12 @@
 -[Parcelamento](CalculadoraParcelamento.py)
 
 ### Código que recebe 3 numeros do usuario e os classifica, dizendo se todos os tres sao iguais, caso não sejam ele diz qual dos numeros digitados é o maior.
--[Calculadora Decrescente](CalculoDecrescente.py)
+- [Calculadora Decrescente](CalculoDecrescente.py)
 
 ### Código que faz o calculo fictício do desconto do INSS do salario do colaborador de acordo com o valor do salário:
--[Calculadora INSS](CalculoDescontoINSS.py)
+- [Calculadora INSS](CalculoDescontoINSS.py)
 ### Código que mostra uma sequencia númerica do 50 ao 100:
--[Sequencia Numérica](FuncaoExibidorDeSequenciaNumerica.py)
+- [Sequencia Numérica](FuncaoExibidorDeSequenciaNumerica.py)
 
 
 
