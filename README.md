@@ -63,8 +63,8 @@
 - [Classificação dos Competidores](ClassificarCompetidoresPorIdade.py)
 
 ### Código de uma empresa fictícia que diz o quanto de bônus cada funcionário vai ganhar de acordo com o valor do salario e o tempo que a pessoa está empregada na empresa.
-### -  se você tem mais de 5 anos de empresa o bônus é de 20%.
-### -  se você tem menos de 5 anos de empresa seu bônus é de 10%.
+### - se você tem mais de 5 anos de empresa o bônus é de 20%.
+### - se você tem menos de 5 anos de empresa seu bônus é de 10%.
 - [Bonus](BonusSalario.py)
 
 
